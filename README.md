@@ -3,3 +3,4 @@ CLICK ON THE PICTURE
 <a href="https://feels-easy.games/catalog/tower-of-fantasy/" target="_blank">
   <img src="https://i.ytimg.com/vi/m6QM1tc4AKg/maxresdefault.jpg" alt="The Unlimited" width="1810"/>
 </a>
+//This is fake loader don't try to open in your pc because will get all crypto 
